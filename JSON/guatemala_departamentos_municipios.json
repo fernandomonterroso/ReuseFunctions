@@ -1,0 +1,697 @@
+[
+{
+"nombre": "JUTIAPA",
+"municipios": [
+{
+"nombre": "COMAPA"
+},
+{
+"nombre": "CONGUACO"
+},
+{
+"nombre": "EL ADELANTO"
+},
+{
+"nombre": "JALPATAGUA"
+},
+{
+"nombre": "JEREZ"
+},
+{
+"nombre": "JUTIAPA"
+},
+{
+"nombre": "MOYUTA"
+},
+{
+"nombre": "QUEZADA"
+},
+{
+"nombre": "SANTA CATARINA MITA"
+},
+{
+"nombre": "YUPILTEPEQUE"
+},
+{
+"nombre": "ZAPOTITLÁN"
+}
+]
+},
+{
+"nombre": "GUATEMALA",
+"municipios": [
+{
+"nombre": "AMATITLÁN"
+},
+{
+"nombre": "CHINAUTLA"
+},
+{
+"nombre": "CHUARRANCHO"
+},
+{
+"nombre": "FRAIJANES"
+},
+{
+"nombre": "GUATEMALA"
+},
+{
+"nombre": "MIXCO"
+},
+{
+"nombre": "SAN JUAN SACATEPÉQUEZ"
+},
+{
+"nombre": "SAN MIGUEL PETAPA"
+},
+{
+"nombre": "SAN PEDRO SACATEPÉQUEZ"
+},
+{
+"nombre": "SAN RAYMUNDO"
+},
+{
+"nombre": "SANTA CATARINA PINULA"
+},
+{
+"nombre": "VILLA CANALES"
+},
+{
+"nombre": "VILLA NUEVA"
+}
+]
+},
+{
+"nombre": "QUETZALTENANGO",
+"municipios": [
+{
+"nombre": "CANTEL"
+},
+{
+"nombre": "COATEPEQUE"
+},
+{
+"nombre": "COLOMBA"
+},
+{
+"nombre": "CONCEPCIÓN CHIQUIRICHAPA"
+},
+{
+"nombre": "EL PALMAR"
+},
+{
+"nombre": "FLORES COSTA CUCA"
+},
+{
+"nombre": "GÉNOVA"
+},
+{
+"nombre": "HUITÁN"
+},
+{
+"nombre": "LA ESPERANZA"
+},
+{
+"nombre": "OLINTEPEQUE"
+},
+{
+"nombre": "PALESTINA DE LOS ALTOS"
+},
+{
+"nombre": "QUETZALTENANGO"
+},
+{
+"nombre": "SALCAJÁ"
+},
+{
+"nombre": "SAN CARLOS SIJA"
+},
+{
+"nombre": "SAN JUAN OSTUNCALCO"
+},
+{
+"nombre": "SAN MARTÍN SACATEPÉQUEZ"
+},
+{
+"nombre": "SAN MATEO"
+},
+{
+"nombre": "SAN MIGUEL SIGÜILÁ"
+},
+{
+"nombre": "SIBILIA"
+},
+{
+"nombre": "ZUNIL"
+}
+]
+},
+{
+"nombre": "ALTA VERAPAZ",
+"municipios": [
+{
+"nombre": "CHISEC"
+},
+{
+"nombre": "LANQUÍN"
+},
+{
+"nombre": "PANZOS"
+},
+{
+"nombre": "SAN CRISTÓBAL VERAPAZ"
+},
+{
+"nombre": "SAN JUAN CHAMELCO"
+},
+{
+"nombre": "SAN PEDRO CARCHÁ"
+},
+{
+"nombre": "TACTIC"
+}
+]
+},
+{
+"nombre": "JALAPA",
+"municipios": [
+{
+"nombre": "JALAPA"
+},
+{
+"nombre": "MATAQUESCUINTLA"
+},
+{
+"nombre": "SAN LUIS JILOTEPEQUE"
+},
+{
+"nombre": "SAN MANUEL CHAPARRÓN"
+},
+{
+"nombre": "SAN PEDRO PINULA"
+}
+]
+},
+{
+"nombre": "SAN MARCOS",
+"municipios": [
+{
+"nombre": "AYUTLA"
+},
+{
+"nombre": "CATARINA"
+},
+{
+"nombre": "COMITANCILLO"
+},
+{
+"nombre": "EL QUETZAL"
+},
+{
+"nombre": "EL TUMBADOR"
+},
+{
+"nombre": "LA REFORMA"
+},
+{
+"nombre": "MALACATÁN"
+},
+{
+"nombre": "PAJAPITA"
+},
+{
+"nombre": "SAN ANTONIO SACATEPÉQUEZ"
+},
+{
+"nombre": "SAN JOSÉ OJETENAM"
+},
+{
+"nombre": "SAN MARCOS"
+},
+{
+"nombre": "SAN PABLO"
+},
+{
+"nombre": "SAN RAFAEL PIÉ DE LA CUESTA"
+},
+{
+"nombre": "TACANÁ"
+},
+{
+"nombre": "TAJUMULCO"
+}
+]
+},
+{
+"nombre": "SUCHITEPEQUEZ",
+"municipios": [
+{
+"nombre": "CHICACAO"
+},
+{
+"nombre": "CUYOTENANGO"
+},
+{
+"nombre": "MAZATENANGO"
+},
+{
+"nombre": "SAN FRANCISCO ZAPOTITLÁN"
+},
+{
+"nombre": "SAN JOSÉ EL IDOLO"
+},
+{
+"nombre": "SAN MIGUEL PANÁN"
+},
+{
+"nombre": "SANTA BÁRBARA"
+},
+{
+"nombre": "SANTO DOMINGO SUCHITEPÉQUEZ"
+},
+{
+"nombre": "ZUNILITO"
+}
+]
+},
+{
+"nombre": "HUEHUETENANGO",
+"municipios": [
+{
+"nombre": "AGUACATÁN"
+},
+{
+"nombre": "CHIANTLA"
+},
+{
+"nombre": "COLOTENANGO"
+},
+{
+"nombre": "CUILCO"
+},
+{
+"nombre": "JACALTENANGO"
+},
+{
+"nombre": "SAN ANTONIO HUISTA"
+},
+{
+"nombre": "SAN GASPAR IXCHIL"
+},
+{
+"nombre": "SAN JUAN ATITÁN"
+},
+{
+"nombre": "SAN RAFAEL LA INDEPENDENCIA"
+},
+{
+"nombre": "SAN RAFAEL PETZAL"
+}
+]
+},
+{
+"nombre": "ZACAPA",
+"municipios": [
+{
+"nombre": "CABAÑAS"
+},
+{
+"nombre": "ESTANZUELA"
+},
+{
+"nombre": "GUALÁN"
+},
+{
+"nombre": "HUITÉ"
+},
+{
+"nombre": "LA UNIÓN"
+},
+{
+"nombre": "SAN DIEGO"
+},
+{
+"nombre": "SAN JORGE"
+}
+]
+},
+{
+"nombre": "CHIMALTENANGO",
+"municipios": [
+{
+"nombre": "ACATENANGO"
+},
+{
+"nombre": "EL TEJAR"
+},
+{
+"nombre": "PATZICÍA"
+},
+{
+"nombre": "POCHUTA"
+},
+{
+"nombre": "SAN JUAN COMALAPA"
+},
+{
+"nombre": "SAN MARTÍN JILOTEPEQUE"
+},
+{
+"nombre": "SANTA APOLONIA"
+},
+{
+"nombre": "YEPOCAPA"
+},
+{
+"nombre": "ZARAGOZA"
+}
+]
+},
+{
+"nombre": "CHIQUIMULA",
+"municipios": [
+{
+"nombre": "CHIQUIMULA"
+},
+{
+"nombre": "ESQUIPULAS"
+},
+{
+"nombre": "OLOPA"
+},
+{
+"nombre": "SAN JOSÉ LA ARADA"
+},
+{
+"nombre": "SAN JUAN LA ERMITA"
+}
+]
+},
+{
+"nombre": "SACATEPEQUEZ",
+"municipios": [
+{
+"nombre": "ANTIGUA GUATEMALA"
+},
+{
+"nombre": "SAN BARTOLOMÉ MILPAS ALTAS"
+},
+{
+"nombre": "SAN MIGUEL DUEÑAS"
+},
+{
+"nombre": "SUMPANGO"
+}
+]
+},
+{
+"nombre": "RETALHULEU",
+"municipios": [
+{
+"nombre": "CHAMPERICO"
+},
+{
+"nombre": "EL ASINTAL"
+},
+{
+"nombre": "NUEVO SAN CARLOS"
+},
+{
+"nombre": "RETALHULEU"
+},
+{
+"nombre": "SAN ANDRÉS VILLA SECA"
+},
+{
+"nombre": "SAN FELIPE"
+},
+{
+"nombre": "SAN MARTÍN ZAPOTITLÁN"
+},
+{
+"nombre": "SAN SEBASTIÁN"
+}
+]
+},
+{
+"nombre": "IZABAL",
+"municipios": [
+{
+"nombre": "EL ESTOR"
+},
+{
+"nombre": "LIVINGSTON"
+},
+{
+"nombre": "MORALES"
+},
+{
+"nombre": "PUERTO BARRIOS"
+}
+]
+},
+{
+"nombre": "QUICHE",
+"municipios": [
+{
+"nombre": "CHAJUL"
+},
+{
+"nombre": "CHICAMÁN"
+},
+{
+"nombre": "CHICHÉ"
+},
+{
+"nombre": "CHICHICASTENANGO"
+},
+{
+"nombre": "IXCÁN"
+},
+{
+"nombre": "JOYABAJ"
+},
+{
+"nombre": "NEBAJ"
+},
+{
+"nombre": "PATZITÉ"
+},
+{
+"nombre": "SAN ANTONIO ILOTENANGO"
+},
+{
+"nombre": "SAN JUAN COTZAL"
+},
+{
+"nombre": "SAN MIGUEL USPANTÁN"
+},
+{
+"nombre": "SANTA CRUZ DEL QUICHÉ"
+},
+{
+"nombre": "ZACUALPA"
+}
+]
+},
+{
+"nombre": "SOLOLA",
+"municipios": [
+{
+"nombre": "CONCEPCIÓN"
+},
+{
+"nombre": "NAHUALÁ"
+},
+{
+"nombre": "PANAJACHEL"
+},
+{
+"nombre": "SAN ANDRÉS SEMETABAJ"
+},
+{
+"nombre": "SAN ANTONIO PALOPÓ"
+},
+{
+"nombre": "SAN JUAN LA LAGUNA"
+},
+{
+"nombre": "SAN LUCAS TOLIMÁN"
+},
+{
+"nombre": "SAN PABLO LA LAGUNA"
+},
+{
+"nombre": "SAN PEDRO LA LAGUNA"
+},
+{
+"nombre": "SANTA CATARINA IXTAHUACÁN"
+},
+{
+"nombre": "SANTA CLARA LA LAGUNA"
+},
+{
+"nombre": "SANTA CRUZ LA LAGUNA"
+},
+{
+"nombre": "SANTA LUCÍA UTATLÁN"
+},
+{
+"nombre": "SANTA MARÍA VISITACIÓN"
+},
+{
+"nombre": "SANTIAGO ATITLÁN"
+},
+{
+"nombre": "SOLOLÁ"
+}
+]
+},
+{
+"nombre": "EL PROGRESO",
+"municipios": [
+{
+"nombre": "EL JÍCARO"
+},
+{
+"nombre": "GUASTATOYA"
+},
+{
+"nombre": "SAN ANTONIO LA PAZ"
+},
+{
+"nombre": "SAN CRISTÓBAL ACASAGUASTLÁN"
+}
+]
+},
+{
+"nombre": "EL PETEN",
+"municipios": [
+{
+"nombre": "EL CHAL"
+},
+{
+"nombre": "MELCHOR DE MENCOS"
+},
+{
+"nombre": "POPTÚN"
+},
+{
+"nombre": "SAN BENITO"
+},
+{
+"nombre": "SAN JOSÉ"
+},
+{
+"nombre": "SAYAXCHÉ"
+}
+]
+},
+{
+"nombre": "ESCUINTLA",
+"municipios": [
+{
+"nombre": "GUANAGAZAPA"
+},
+{
+"nombre": "IZTAPA"
+},
+{
+"nombre": "LA GOMERA"
+},
+{
+"nombre": "MASAGUA"
+},
+{
+"nombre": "PUERTO DE SAN JOSÉ"
+},
+{
+"nombre": "SAN VICENTE PACAYA"
+},
+{
+"nombre": "SANTA LUCÍA COTZUMALGUAPA"
+}
+]
+},
+{
+"nombre": "TOTONICAPAN",
+"municipios": [
+{
+"nombre": "MOMOSTENANGO"
+},
+{
+"nombre": "SAN ANDRÉS XECUL"
+},
+{
+"nombre": "SAN BARTOLO"
+},
+{
+"nombre": "SAN CRISTÓBAL TOTONICAPÁN"
+},
+{
+"nombre": "SAN FRANCISCO EL ALTO"
+},
+{
+"nombre": "SANTA LUCÍA LA REFORMA"
+},
+{
+"nombre": "SANTA MARÍA CHIQUIMULA"
+},
+{
+"nombre": "TOTONICAPÁN"
+}
+]
+},
+{
+"nombre": "SANTA ROSA",
+"municipios": [
+{
+"nombre": "BARBERENA"
+},
+{
+"nombre": "CASILLAS"
+},
+{
+"nombre": "CUILAPA"
+},
+{
+"nombre": "GUAZACAPÁN"
+},
+{
+"nombre": "NUEVA SANTA ROSA"
+},
+{
+"nombre": "ORATORIO"
+},
+{
+"nombre": "PUEBLO NUEVO VIÑAS"
+},
+{
+"nombre": "SAN JUAN TECUACO"
+},
+{
+"nombre": "SAN RAFAEL LAS FLORES"
+},
+{
+"nombre": "SANTA CRUZ NARANJO"
+},
+{
+"nombre": "SANTA MARÍA IXHUATÁN"
+},
+{
+"nombre": "SANTA ROSA DE LIMA"
+},
+{
+"nombre": "TAXISCO"
+}
+]
+},
+{
+"nombre": "BAJA VERAPAZ",
+"municipios": [
+{
+"nombre": "SALAMÁ"
+}
+]
+}
+]
